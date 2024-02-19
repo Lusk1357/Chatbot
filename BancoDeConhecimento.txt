@@ -1,0 +1,696 @@
+cliente: como posso cozinhar um omelete?
+chatbot: bata ovos, adicione ingredientes a gosto, despeje em uma frigideira e cozinhe até ficar pronto.
+
+cliente: qual é a capital da frança?
+chatbot: a capital da frança é paris.
+
+cliente: quem foi o primeiro presidente do brasil?
+chatbot: o primeiro presidente do brasil foi marechal deodoro da fonseca.
+
+cliente: qual é a fórmula da água?
+chatbot: a fórmula da água é h2o.
+
+cliente: quais são os cinco sentidos humanos?
+chatbot: os cinco sentidos humanos são visão, audição, olfato, paladar e tato.
+
+cliente: como resolver uma equação quadrática?
+chatbot: use a fórmula de bhaskara: x = (-b ± √(b² - 4ac)) / (2a).
+
+cliente: qual é a capital do japão?
+chatbot: a capital do japão é tóquio.
+
+cliente: quem é o autor de "dom quixote"?
+chatbot: "dom quixote" foi escrito por miguel de cervantes.
+
+cliente: como se diz "olá" em francês?
+chatbot: "olá" em francês é "bonjour".
+
+cliente: qual é a soma dos ângulos internos de um triângulo?
+chatbot: a soma dos ângulos internos de um triângulo é 180 graus.
+
+cliente: quem pintou a mona lisa?
+chatbot: a mona lisa foi pintada por leonardo da vinci.
+
+cliente: como se chama a moeda do japão?
+chatbot: a moeda do japão é o iene.
+
+cliente: quem é o criador do facebook?
+chatbot: o facebook foi criado por mark zuckerberg.
+
+cliente: qual é a capital da rússia?
+chatbot: a capital da rússia é moscou.
+
+cliente: como se calcula a área de um círculo?
+chatbot: a área de um círculo é calculada usando a fórmula a = πr², onde r é o raio.
+
+cliente: quem escreveu "romeu e julieta"?
+chatbot: "romeu e julieta" foi escrito por william shakespeare.
+
+cliente: quem ganhou o prêmio nobel da paz em 2020?
+chatbot: o programa alimentar mundial (pam) ganhou o prêmio nobel da paz em 2020.
+
+cliente: qual é a linguagem de programação mais popular?
+chatbot: atualmente, javascript é uma das linguagens de programação mais populares.
+
+cliente: quem foi o primeiro homem a pisar na lua?
+chatbot: o primeiro homem a pisar na lua foi neil armstrong.
+
+cliente: qual é o número atômico do oxigênio?
+chatbot: o número atômico do oxigênio é 8.
+
+cliente: quem é a autora de "harry potter"?
+chatbot: "harry potter" foi escrito por j.k. rowling.
+
+cliente: qual é a altura do monte everest?
+chatbot: a altura do monte everest é 8.848 metros.
+
+cliente: quem foi albert einstein?
+chatbot: albert einstein foi um físico teórico alemão que desenvolveu a teoria da relatividade.
+
+cliente: qual é o maior planeta do nosso sistema solar?
+chatbot: o maior planeta do nosso sistema solar é júpiter.
+
+cliente: quem foi martin luther king jr.?
+chatbot: martin luther king jr. foi um líder dos direitos civis nos estados unidos.
+
+cliente: qual é a capital da austrália?
+chatbot: a capital da austrália é camberra.
+
+cliente: como se calcula a média aritmética?
+chatbot: a média aritmética é calculada somando os números e dividindo pelo total deles.
+
+cliente: quem é conhecido como "o príncipe das trevas"?
+chatbot: ozzy osbourne é conhecido como "o príncipe das trevas".
+
+cliente: qual é o animal terrestre mais rápido?
+chatbot: o guepardo é o animal terrestre mais rápido.
+
+cliente: quem é a figura histórica retratada na obra "guernica"?
+chatbot: "guernica" é uma obra de pablo picasso que retrata os horrores da guerra civil espanhola.
+
+cliente: quem é a autora de "orgulho e preconceito"?
+chatbot: "orgulho e preconceito" foi escrito por jane austen.
+
+cliente: qual é o elemento mais abundante na crosta terrestre?
+chatbot: o oxigênio é o elemento mais abundante na crosta terrestre.
+
+cliente: quem foi o fundador da microsoft?
+chatbot: a microsoft foi fundada por bill gates e paul allen.
+
+cliente: como se chama a primeira lei de newton?
+chatbot: a primeira lei de newton é conhecida como a lei da inércia.
+
+cliente: qual é o maior oceano do mundo?
+chatbot: o maior oceano do mundo é o pacífico.
+
+cliente: quem é considerado o "pai da computação"?
+chatbot: alan turing é considerado o "pai da computação".
+
+cliente: como se chama a técnica de pintura que usa cera derretida?
+chatbot: a técnica de pintura que usa cera derretida é chamada de encaústica.
+
+cliente: qual é o animal símbolo da austrália?
+chatbot: o canguru é um dos animais símbolos da austrália.
+
+cliente: quem é o autor de "cem anos de solidão"?
+chatbot: "cem anos de solidão" foi escrito por gabriel garcía márquez.
+
+cliente: qual é o segundo maior planeta do nosso sistema solar?
+chatbot: saturno é o segundo maior planeta do nosso sistema solar.
+
+cliente: como se chama a cor oposta ao vermelho no círculo cromático?
+chatbot: a cor oposta ao vermelho no círculo cromático é o verde.
+
+cliente: quem foi o criador da teoria da evolução?
+chatbot: charles darwin é o criador da teoria da evolução.
+
+cliente: qual é a capital do canadá?
+chatbot: a capital do canadá é ottawa.
+
+cliente: quem é o pintor das obras "noite estrelada" e "o quarto em arles"?
+chatbot: vincent van gogh é o pintor das obras "noite estrelada" e "o quarto em arles".
+
+cliente: como se chama a linguagem de programação usada para desenvolver aplicativos android?
+chatbot: a linguagem de programação usada para desenvolver aplicativos android é java.
+
+cliente: quem é o autor de "a origem das espécies"?
+chatbot: "a origem das espécies" foi escrito por charles darwin.
+
+cliente: qual é o maior deserto do mundo?
+chatbot: o antártico é considerado o maior deserto do mundo.
+
+cliente: quem foi a primeira mulher a ganhar o prêmio nobel?
+chatbot: marie curie foi a primeira mulher a ganhar o prêmio nobel, recebendo-o em duas áreas diferentes: física e química.
+
+cliente: como se chama a moeda da china?
+chatbot: a moeda da china é o yuan.
+
+cliente: qual é o filme mais premiado na história do oscar?
+chatbot: "ben-hur" é o filme mais premiado na história do oscar, vencendo 11 estatuetas em 1959.
+
+cliente: quem é conhecido como "rei do pop"?
+chatbot: michael jackson é conhecido como "rei do pop".
+
+cliente: qual é o maior rio do mundo em volume de água?
+chatbot: o rio amazonas é o maior rio do mundo em volume de água.
+
+cliente: quem foi o líder da revolução cubana?
+chatbot: fidel castro foi o líder da revolução cubana.
+
+cliente: qual é o número da sorte na cultura chinesa?
+chatbot: o número da sorte na cultura chinesa é o número 8.
+
+cliente: quem foi o primeiro imperador romano?
+chatbot: júlio césar foi o primeiro imperador romano.
+
+cliente: como se chama a reação química que libera energia?
+chatbot: a reação química que libera energia é chamada de exotérmica.
+
+cliente: qual é a velocidade da luz no vácuo?
+chatbot: a velocidade da luz no vácuo é aproximadamente 299.792.458 metros por segundo.
+
+cliente: quem foi o primeiro astronauta a caminhar na lua?
+chatbot: neil armstrong foi o primeiro astronauta a caminhar na lua durante a missão apollo 11.
+
+cliente: qual é o símbolo químico do ouro?
+chatbot: o símbolo químico do ouro é au.
+
+cliente: quem escreveu "o pequeno príncipe"?
+chatbot: "o pequeno príncipe" foi escrito por antoine de saint-exupéry.
+
+cliente: qual é o segundo planeta do nosso sistema solar?
+chatbot: vênus é o segundo planeta do nosso sistema solar.
+
+cliente: quem é conhecido como o "pai da psicanálise"?
+chatbot: sigmund freud é conhecido como o "pai da psicanálise".
+
+cliente: qual é a capital da argentina?
+chatbot: a capital da argentina é buenos aires.
+
+cliente: quem foi a primeira mulher a ganhar um prêmio nobel de literatura?
+chatbot: a primeira mulher a ganhar um prêmio nobel de literatura foi selma lagerlöf.
+
+cliente: como se chama a camada externa da terra?
+chatbot: a camada externa da terra é chamada de crosta.
+
+cliente: qual é o animal mais rápido do mundo?
+chatbot: o falcão peregrino é considerado o animal mais rápido do mundo em voo.
+
+cliente: quem é considerado o "pai da filosofia ocidental"?
+chatbot: sócrates é considerado o "pai da filosofia ocidental".
+
+cliente: qual é o único metal líquido à temperatura ambiente?
+chatbot: o mercúrio é o único metal líquido à temperatura ambiente.
+
+cliente: quem é a autora de "a casa dos espíritos"?
+chatbot: "a casa dos espíritos" foi escrito por isabel allende.
+
+cliente: qual é a dança tradicional do havaí?
+chatbot: a dança tradicional do havaí é a hula.
+
+cliente: quem foi o primeiro presidente dos estados unidos?
+chatbot: george washington foi o primeiro presidente dos estados unidos.
+
+cliente: qual é o maior animal terrestre?
+chatbot: o elefante africano é o maior animal terrestre.
+
+cliente: quem foi o pintor do quadro "a última ceia"?
+chatbot: leonardo da vinci pintou o quadro "a última ceia".
+
+cliente: qual é a maior cordilheira do mundo?
+chatbot: a cordilheira dos himalaias é a maior cordilheira do mundo.
+
+cliente: quem foi o líder da revolução russa?
+chatbot: vladimir lenin foi o líder da revolução russa.
+
+cliente: qual é o maior órgão do corpo humano?
+chatbot: a pele é o maior órgão do corpo humano.
+
+cliente: quem é conhecido como "príncipe das trevas" na música?
+chatbot: ozzy osbourne é conhecido como "príncipe das trevas" na música.
+
+cliente: qual é a capital da índia?
+chatbot: a capital da índia é nova deli.
+
+cliente: quem foi a primeira pessoa a conquistar a marca de um bilhão de dólares na indústria do entretenimento?
+chatbot: george lucas foi a primeira pessoa a conquistar a marca de um bilhão de dólares na indústria do entretenimento.
+
+cliente: como se chama a teoria que descreve a origem do universo a partir de uma grande explosão?
+chatbot: a teoria que descreve a origem do universo a partir de uma grande explosão é chamada de big bang.
+
+cliente: quem é considerado o "pai da medicina"?
+chatbot: hipócrates é considerado o "pai da medicina".
+
+cliente: qual é o maior animal marinho?
+chatbot: a baleia-azul é o maior animal marinho.
+
+cliente: quem foi o inventor da lâmpada elétrica?
+chatbot: thomas edison é o inventor da lâmpada elétrica.
+
+cliente: qual é a capital da espanha?
+chatbot: a capital da espanha é madrid.
+
+cliente: quem é o autor de "o senhor dos anéis"?
+chatbot: "o senhor dos anéis" foi escrito por j.r.r. tolkien.
+
+cliente: qual é o país mais populoso do mundo?
+chatbot: a china é o país mais populoso do mundo.
+
+cliente: quem é conhecido como "rei do rock"?
+chatbot: elvis presley é conhecido como "rei do rock".
+
+cliente: qual é o maior deserto de areia do mundo?
+chatbot: o deserto do saara é o maior deserto de areia do mundo.
+
+cliente: quem foi a primeira mulher a ganhar um prêmio nobel de química?
+chatbot: marie curie foi a primeira mulher a ganhar um prêmio nobel de química.
+
+cliente: qual é o quarto planeta do nosso sistema solar?
+chatbot: marte é o quarto planeta do nosso sistema solar.
+
+cliente: quem foi o primeiro explorador a chegar à antártica?
+chatbot: roald amundsen foi o primeiro explorador a chegar à antártica.
+
+cliente: como se chama a ciência que estuda os planetas e outros corpos celestes?
+chatbot: a ciência que estuda os planetas e outros corpos celestes é chamada de astronomia.
+
+cliente: quem foi o primeiro homem a realizar um voo controlado em uma aeronave motorizada?
+chatbot: os irmãos wright, orville e wilbur wright, foram os primeiros a realizar um voo controlado em uma aeronave motorizada.
+
+cliente: qual é a capital da áfrica do sul?
+chatbot: a capital da áfrica do sul é cidade do cabo.
+
+cliente: quem é a autora de "os miseráveis"?
+chatbot: "os miseráveis" foi escrito por victor hugo.
+
+cliente: qual é o maior lago do mundo em volume de água doce?
+chatbot: o lago baikal é o maior lago do mundo em volume de água doce.
+
+cliente: quem é considerado o "pai da psicologia"?
+chatbot: wilhelm wundt é considerado o "pai da psicologia".
+
+cliente: como se chama a técnica de pintura que utiliza água e pigmentos?
+chatbot: a técnica de pintura que utiliza água e pigmentos é chamada de aquarela.
+
+cliente: quem é conhecido como "gênio do renascimento"?
+chatbot: leonardo da vinci é conhecido como "gênio do renascimento".
+
+cliente: qual é a capital da turquia?
+chatbot: a capital da turquia é ancara.
+
+cliente: quem é o autor de "crime e castigo"?
+chatbot: "crime e castigo" foi escrito por fiódor dostoiévski.
+
+cliente: qual é o segundo maior oceano do mundo?
+chatbot: o atlântico é o segundo maior oceano do mundo.
+
+cliente: quem foi a primeira mulher a ganhar um prêmio nobel da paz?
+chatbot: a primeira mulher a ganhar um prêmio nobel da paz foi bertha von suttner.
+
+cliente: qual é o maior país do mundo em área territorial?
+chatbot: a rússia é o maior país do mundo em área territorial.
+
+cliente: quem é conhecido como "rei do futebol"?
+chatbot: pelé é conhecido como "rei do futebol".
+
+cliente: como se chama a camada atmosférica que protege a terra dos raios ultravioleta do sol?
+chatbot: a camada atmosférica que protege a terra dos raios ultravioleta do sol é chamada de ozônio.
+
+cliente: quem é o autor de "ulisses"?
+chatbot: "ulisses" foi escrito por james joyce.
+
+cliente: qual é o maior órgão interno do corpo humano?
+chatbot: o fígado é o maior órgão interno do corpo humano.
+
+cliente: quem foi a primeira pessoa a chegar ao polo sul?
+chatbot: roald amundsen foi o primeiro a chegar ao polo sul.
+
+cliente: qual é o símbolo químico do carbono?
+chatbot: o símbolo químico do carbono é c.
+
+cliente: quem foi o primeiro presidente do brasil eleito pelo voto direto após a ditadura militar?
+chatbot: fernando collor de mello foi o primeiro presidente do brasil eleito pelo voto direto após a ditadura militar.
+
+cliente: qual é o segundo livro mais vendido de todos os tempos?
+chatbot: "dom quixote" é o segundo livro mais vendido de todos os tempos, perdendo apenas para a bíblia.
+
+cliente: quem é a autora de "frankenstein"?
+chatbot: "frankenstein" foi escrito por mary shelley.
+
+cliente: como se chama a moeda do méxico?
+chatbot: a moeda do méxico é o peso.
+
+cliente: quem foi o primeiro homem a atingir o cume do monte everest?
+chatbot: sir edmund hillary e tenzing norgay foram os primeiros a atingir o cume do monte everest.
+
+cliente: qual é o maior rio da américa do sul?
+chatbot: o rio amazonas é o maior rio da américa do sul.
+
+cliente: quem é considerado o "pai da física moderna"?
+chatbot: isaac newton é considerado o "pai da física moderna".
+
+cliente: como se chama a técnica de pintura que utiliza giz pastel seco?
+chatbot: a técnica de pintura que utiliza giz pastel seco é chamada de pastel seco.
+
+cliente: quem foi a primeira mulher a ganhar um prêmio nobel de física?
+chatbot: marie curie foi a primeira mulher a ganhar um prêmio nobel de física.
+
+cliente: qual é o maior arquipélago do mundo?
+chatbot: a indonésia é o maior arquipélago do mundo.
+
+cliente: quem é considerado o "pai da teoria quântica"?
+chatbot: max planck é considerado o "pai da teoria quântica".
+
+cliente: como se chama a camada de ozônio que está localizada na estratosfera?
+chatbot: a camada de ozônio localizada na estratosfera é chamada de ozônio estratosférico.
+
+cliente: quem foi a primeira mulher a ganhar um prêmio nobel de medicina?
+chatbot: gerty cori foi a primeira mulher a ganhar um prêmio nobel de medicina.
+
+cliente: qual é o menor planeta do nosso sistema solar?
+chatbot: mercúrio é o menor planeta do nosso sistema solar.
+
+cliente: quem foi o líder do movimento pelos direitos civis nos estados unidos?
+chatbot: martin luther king jr. foi o líder do movimento pelos direitos civis nos estados unidos.
+
+cliente: qual é a capital da suíça?
+chatbot: a capital da suíça é berna.
+
+cliente: quem é o autor de "a metamorfose"?
+chatbot: "a metamorfose" foi escrito por franz kafka.
+
+cliente: como se chama a pintura que utiliza apenas tons de preto, branco e cinza?
+chatbot: a pintura que utiliza apenas tons de preto, branco e cinza é chamada de pintura em tons de cinza.
+
+cliente: quem foi o primeiro astronauta a viajar para o espaço?
+chatbot: yuri gagarin foi o primeiro astronauta a viajar para o espaço.
+
+cliente: qual é o símbolo químico do hidrogênio?
+chatbot: o símbolo químico do hidrogênio é h.
+
+cliente: quem é conhecido como "bardo de avon"?
+chatbot: william shakespeare é conhecido como "bardo de avon".
+
+cliente: qual é a moeda da rússia?
+chatbot: a moeda da rússia é o rublo.
+
+cliente: quem foi a primeira mulher a ganhar um prêmio nobel de economia?
+chatbot: elinor ostrom foi a primeira mulher a ganhar um prêmio nobel de economia.
+
+cliente: qual é o menor país do mundo em área territorial?
+chatbot: o menor país do mundo em área territorial é o vaticano.
+
+cliente: quem foi o primeiro homem a criar uma máquina programável?
+chatbot: charles babbage foi o primeiro homem a criar uma máquina programável, chamada de máquina analítica.
+
+cliente: como se chama a dança tradicional da irlanda?
+chatbot: a dança tradicional da irlanda é chamada de dança irlandesa.
+
+cliente: quem é a autora de "o diário de anne frank"?
+chatbot: "o diário de anne frank" foi escrito por anne frank.
+
+cliente: qual é o animal símbolo da china?
+chatbot: o panda é um dos animais símbolos da china.
+
+cliente: quem é conhecido como "pai da eletricidade"?
+chatbot: nikola tesla é conhecido como "pai da eletricidade".
+
+cliente: qual é o nome do telescópio espacial lançado pela nasa em 1990?
+chatbot: o telescópio espacial lançado pela nasa em 1990 é chamado de telescópio espacial hubble.
+
+cliente: quem é considerado o "pai da psiquiatria"?
+chatbot: sigmund freud é considerado o "pai da psiquiatria".
+
+cliente: qual é o animal mais lento do mundo?
+chatbot: a preguiça é considerada o animal mais lento do mundo.
+
+cliente: quem é a autora de "o amor nos tempos do cólera"?
+chatbot: "o amor nos tempos do cólera" foi escrito por gabriel garcía márquez.
+
+cliente: qual é o maior continente do mundo?
+chatbot: a ásia é o maior continente do mundo.
+
+cliente: quem foi o primeiro presidente dos estados unidos a ser assassinado?
+chatbot: abraham lincoln foi o primeiro presidente dos estados unidos a ser assassinado.
+
+cliente: qual é o símbolo químico do ferro?
+chatbot: o símbolo químico do ferro é fe.
+
+cliente: quem foi o líder espiritual da índia que lutou pela independência do país?
+chatbot: mahatma gandhi foi o líder espiritual da índia que lutou pela independência do país.
+
+cliente: como se chama a forma mais simples de uma substância?
+chatbot: o átomo é considerado a forma mais simples de uma substância.
+
+cliente: qual é o número atômico do hélio?
+chatbot: o número atômico do hélio é 2.
+
+cliente: quem foi o autor de "as aventuras de alice no país das maravilhas"?
+chatbot: "as aventuras de alice no país das maravilhas" foi escrito por lewis carroll.
+
+cliente: qual é o menor múltiplo comum de 3 e 5?
+chatbot: o menor múltiplo comum de 3 e 5 é 15.
+
+cliente: quem foi o fundador da psicanálise infantil?
+chatbot: melanie klein foi a fundadora da psicanálise infantil.
+
+cliente: qual é o nome do primeiro satélite artificial lançado na órbita da terra?
+chatbot: o primeiro satélite artificial lançado na órbita da terra é chamado de sputnik 1.
+
+cliente: quem é o autor de "o morro dos ventos uivantes"?
+chatbot: "o morro dos ventos uivantes" foi escrito por emily brontë.
+
+cliente: como se chama o processo de transformação de um gás para um líquido?
+chatbot: o processo de transformação de um gás para um líquido é chamado de condensação.
+
+cliente: qual é o maior lago de água doce da américa do norte?
+chatbot: o lago superior é o maior lago de água doce da américa do norte.
+
+cliente: quem foi o primeiro presidente da república do brasil?
+chatbot: marechal deodoro da fonseca foi o primeiro presidente da república do brasil.
+
+cliente: qual é o maior órgão sensorial do corpo humano?
+chatbot: a pele é o maior órgão sensorial do corpo humano.
+
+cliente: quem foi o primeiro homem a pisar na lua durante a missão apollo 11?
+chatbot: neil armstrong foi o primeiro homem a pisar na lua durante a missão apollo 11.
+
+cliente: como se chama a técnica de pintura que utiliza cera derretida?
+chatbot: a técnica de pintura que utiliza cera derretida é chamada de encaústica.
+
+cliente: quem é conhecido como "rei do pop"?
+chatbot: michael jackson é conhecido como "rei do pop".
+
+cliente: qual é a capital da argentina?
+chatbot: a capital da argentina é buenos aires.
+
+cliente: qual é o maior deserto do mundo?
+chatbot: o deserto do saara é considerado o maior deserto do mundo.
+
+cliente: quem é conhecido como "rei do futebol"?
+chatbot: pelé é conhecido como "rei do futebol".
+
+cliente: qual é o maior rio do mundo em volume de água?
+chatbot: o rio amazonas é o maior rio do mundo em volume de água.
+
+cliente: quem foi a primeira mulher a ganhar um prêmio nobel da paz?
+chatbot: bertha von suttner foi a primeira mulher a ganhar um prêmio nobel da paz.
+
+cliente: quem é conhecido como "pai da eletricidade"?
+chatbot: nikola tesla é conhecido como "pai da eletricidade".
+
+cliente: qual é o menor planeta do nosso sistema solar?
+chatbot: mercúrio é o menor planeta do nosso sistema solar.
+
+cliente: quem foi o líder espiritual da índia que lutou pela independência do país?
+chatbot: mahatma gandhi foi o líder espiritual da índia que lutou pela independência do país.
+
+cliente: como se chama a forma mais simples de uma substância?
+chatbot: o átomo é considerado a forma mais simples de uma substância.
+
+cliente: qual é o número atômico do hélio?
+chatbot: o número atômico do hélio é 2.
+
+cliente: quem foi o autor de "as aventuras de alice no país das maravilhas"?
+chatbot: "as aventuras de alice no país das maravilhas" foi escrito por lewis carroll.
+
+cliente: qual é o menor múltiplo comum de 3 e 5?
+chatbot: o menor múltiplo comum de 3 e 5 é 15.
+
+cliente: como você se chama?
+chatbot: me chamo ctrl+play.
+
+cliente: qual é o seu propósito?
+chatbot: estou aqui para ajudar e fornecer informações.
+
+cliente: como está o tempo hoje?
+chatbot: desculpe, eu não tenho informações em tempo real. tente verificar um site de previsão do tempo.
+
+cliente: conte-me uma piada.
+chatbot: por que o programador ficou rico? porque ele usou o bit correto!
+
+cliente: qual é a resposta para a vida, o universo e tudo?
+chatbot: a resposta é 42, segundo o guia do mochileiro das galáxias.
+
+
+cliente: quem foi o fundador da psicanálise infantil?
+chatbot: melanie klein foi a fundadora da psicanálise infantil.
+
+cliente: qual é o nome do primeiro satélite artificial lançado na órbita da terra?
+chatbot: o primeiro satélite artificial lançado na órbita da terra é chamado de sputnik 1.
+
+cliente: quem é o autor de "o morro dos ventos uivantes"?
+chatbot: "o morro dos ventos uivantes" foi escrito por emily brontë.
+
+cliente: como se chama o processo de transformação de um gás para um líquido?
+chatbot: o processo de transformação de um gás para um líquido é chamado de condensação.
+
+cliente: qual é o maior lago de água doce da américa do norte?
+chatbot: o lago superior é o maior lago de água doce da américa do norte.
+
+cliente: quem foi o primeiro presidente da república do brasil?
+chatbot: marechal deodoro da fonseca foi o primeiro presidente da república do brasil.
+
+cliente: qual é o atual presidente do brasil?
+chatbot: o presidente do brasil em janeiro de 2022 é jair bolsonaro.
+
+cliente: quem ganhou o prêmio nobel da paz no último ano?
+chatbot: em 2021, o prêmio nobel da paz foi concedido ao jornalista filipino maria ressa e ao ativista russo dmitry muratov.
+
+cliente: qual é a última tecnologia inovadora que impactou significativamente a indústria de tecnologia?
+chatbot: a tecnologia gpt-3, desenvolvida pela openai, tem sido uma inovação significativa na área de processamento de linguagem natural.
+
+cliente: quais são os eventos esportivos mais recentes de destaque?
+chatbot: os jogos olímpicos de tóquio ocorreram em 2021, marcando um grande evento esportivo global.
+
+cliente: quais foram os desenvolvimentos recentes na luta contra a pandemia de covid-19?
+chatbot: diversas vacinas foram desenvolvidas e distribuídas globalmente para combater a pandemia de covid-19, incluindo vacinas como pfizer-biontech, moderna e astrazeneca.
+
+cliente: quais são os filmes mais recentes que receberam destaque?
+chatbot: alguns dos filmes mais notáveis lançados recentemente incluem "duna", "sem tempo para morrer" e "eternos".
+
+cliente: quais são as tendências de consumo mais recentes na indústria da moda?
+chatbot: a sustentabilidade tem sido uma tendência crescente na indústria da moda, com mais marcas focando em práticas ambientalmente conscientes.
+
+cliente: quais são os avanços recentes na exploração espacial?
+chatbot: a missão perseverance da nasa pousou com sucesso em marte, fazendo importantes descobertas sobre o planeta vermelho.
+
+cliente: quais são as principais notícias econômicas globais recentes?
+chatbot: a recuperação econômica pós-pandemia tem sido uma preocupação global, com países implementando medidas para estimular o crescimento.
+
+cliente: quais são os desenvolvimentos recentes nas mudanças climáticas e sustentabilidade?
+chatbot: o acordo de glasgow foi um marco significativo, reunindo líderes mundiais para discutir ações concretas contra as mudanças climáticas.
+
+cliente: qual é a capital do japão?
+chatbot: a capital do japão é tóquio.
+
+cliente: quem escreveu a peça "romeu e julieta"?
+chatbot: "romeu e julieta" foi escrita por william shakespeare.
+
+cliente: qual é o maior oceano do mundo?
+chatbot: o maior oceano do mundo é o oceano pacífico.
+
+cliente: quem pintou a mona lisa?
+chatbot: a mona lisa foi pintada por leonardo da vinci.
+
+cliente: qual é a fórmula química da água?
+chatbot: a fórmula química da água é h2o.
+
+cliente: em que ano foi assinada a declaração de independência dos estados unidos?
+chatbot: a declaração de independência dos estados unidos foi assinada em 1776.
+
+cliente: quem foi o primeiro presidente dos estados unidos?
+chatbot: george washington foi o primeiro presidente dos estados unidos.
+
+cliente: qual é a capital da frança?
+chatbot: a capital da frança é paris.
+
+cliente: quem foi o inventor da lâmpada elétrica?
+chatbot: thomas edison foi o inventor da lâmpada elétrica.
+
+cliente: qual é a montanha mais alta do mundo?
+chatbot: o monte everest é a montanha mais alta do mundo.
+
+cliente: quem é o autor de "dom quixote"?
+chatbot: "dom quixote" foi escrito por miguel de cervantes.
+
+cliente: qual é o maior animal terrestre?
+chatbot: o maior animal terrestre é o elefante africano.
+
+cliente: quem foi o líder da revolução cubana?
+chatbot: fidel castro foi o líder da revolução cubana.
+
+cliente: qual é o segundo planeta a partir do sol?
+chatbot: vênus é o segundo planeta a partir do sol.
+
+cliente: quem foi o fundador da microsoft?
+chatbot: bill gates foi o fundador da microsoft.
+
+cliente: qual é a moeda utilizada no reino unido?
+chatbot: a moeda utilizada no reino unido é a libra esterlina.
+
+cliente: quem é considerado o "pai da computação"?
+chatbot: alan turing é considerado o "pai da computação".
+
+cliente: qual é a velocidade da luz?
+chatbot: a velocidade da luz é aproximadamente 299.792.458 metros por segundo.
+
+cliente: quem foi o primeiro homem a pisar na lua?
+chatbot: neil armstrong foi o primeiro homem a pisar na lua.
+
+cliente: qual é o maior deserto do mundo?
+chatbot: o deserto do saara é o maior deserto do mundo.
+
+cliente: quem é a autora de "orgulho e preconceito"?
+chatbot: "orgulho e preconceito" foi escrito por jane austen.
+
+cliente: qual é o quinto planeta a partir do sol?
+chatbot: júpiter é o quinto planeta a partir do sol.
+
+cliente: quem foi o líder da revolução russa em 1917?
+chatbot: vladimir lenin foi o líder da revolução russa em 1917.
+
+cliente: vou bem 
+chatbot: que bom!!!
+
+cliente: sim, e com vc
+chatbot: estou bem, tbm
+
+cliente: e o clima
+chatbot: o clima me parece bom 
+
+cliente: sim e com vc
+chatbot: estou bem tbm 
+chatbot: tudo bem?
+chatbot: tudo bem 
+
+cliente: ola
+chatbot: tudo bem ?
+
+cliente: capital do brasil 
+chatbot: a capital do brasil é brasília 
+cliente: capital de paris
+chatbot: paris é a capital da frança
+cliente: sim
+
+chatbot: estou bem tbm 
+cliente: sim
+
+chatbot: que bom!!!
+
+cliente: oi
+chatbot: me faça alguma pergunta!!!
+
+cliente: e do japão
+chatbot: a capital do japão
+
+cliente: sim
+chatbot: Que Bomm
+
+cliente: e do Brasil
+chatbot: Se quiser saber algo sobre o Brasil Digite a pergunta completa 
+
+cliente: d
+cliente: Quantos anos você tem 
+chatbot: 1000 anos
+cliente: lucas

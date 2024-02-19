@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat+Bot</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top mb-4"> 
+        <a class="navbar-brand" href="#">
+            <img src="../static/img/ctrl+play.png" width="80" height="80" class="d-inline-block align-top" alt="">
+            <span><strong>Chat+Bot</strong></span>
+        </a>
+    </nav>
+
+    <div class="container mt-4">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="mb-0"><strong>Chat</strong></h5>
+            </div>
+            <div class="card-body" id="historico-conversa" style="height: 600px; overflow-y: auto;"></div>
+            <div class="card-footer" id="entrada-mensagem">
+                <div class="input-group">
+                    <input type="text" class="form-control" id="mensagem" placeholder="Digite aqui...">
+                    <div class="input-group-append">
+                        <button class="btn btn-warning" id="botao-enviar">
+                            <img src="../static/img/enviar.png" alt="" style="width: 20px; height: 20px; margin-right: 5px;"> Enviar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="../static/script.js" defer></script>
+</body>
+</html>

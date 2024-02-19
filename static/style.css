@@ -1,0 +1,103 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding-top: 56px; /* Fix for the fixed-top navbar */
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand img {
+    margin-right: 10px; /* Ajuste a margem conforme necessário */
+}
+
+.navbar-brand span {
+    font-size: 24px; /* Ajuste o tamanho do texto conforme necessário */
+}
+
+.container {
+    margin-top: 70px;
+}
+
+.card {
+    border: 2px solid #f58220;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.card-header {
+    background-color: #f58220;
+    color: #ffffff;
+    border-bottom: none;
+}
+
+.card-footer {
+    background-color: #f8f9fa;
+    border-color: #f58220;
+    border-top: none;
+}
+
+.input-group {
+    margin-bottom: 10px;
+}
+
+input.form-control {
+    border-color: #f58220;
+}
+
+button.btn-warning {
+    background-color: #3498DB ;
+    color: #ffffff;
+}
+
+button.btn-warning:hover {
+    background-color: #3498DB ;
+}
+
+nav.navbar {
+    background-color: #343a40; /* Dark background color */
+}
+
+nav.navbar a.navbar-brand {
+    color: #f8f9fa !important; /* Light text color */
+}
+
+div.card {
+    border: 2px solid #f58220;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+/* Adicione esta regra no seu CSS existente */
+@media (max-width: 576px) {
+    nav.navbar {
+        padding-top: 15px; /* Ajuste a altura da barra de navegação conforme necessário */
+        margin-bottom: 30px;
+    }
+
+    .navbar-brand img {
+        width: 50px; /* Ajuste o tamanho da imagem do logo para dispositivos menores */
+        height: 50px;
+        margin-right: 5px; /* Ajuste a margem conforme necessário */
+    }
+
+    .navbar-brand span {
+        font-size: 18px; /* Ajuste o tamanho do texto conforme necessário */
+    }
+
+    .container {
+        margin-top: 15px; /* Ajuste a margem superior do conteúdo conforme necessário */
+        
+    }
+
+    div.card {
+        border: 2px solid #f58220;
+        background-color: #ffffff;
+        border-radius: 10px;
+        margin-top: 60px; /* Ajuste o valor conforme necessário para obter o espaçamento desejado */
+    }
+}
